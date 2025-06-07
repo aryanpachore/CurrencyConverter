@@ -6,7 +6,7 @@ A simple and elegant Currency Converter web application that allows users to con
 
 ## 🌐 Live Preview
 
-[🔗 Insert Deployed Link Here](#)
+[🔗 https://currency-converter-aryan-s-projects-f339da34.vercel.app/](#)
 
 ---
 
